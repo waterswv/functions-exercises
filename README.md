@@ -256,9 +256,9 @@ printTriangle(3);
 
 ### 11. Create a heads-or-tails game.
 In a separate file, create a super-simple HTML page that contains an element with the id `result`, and link your HTML page to a js file. In that js file, define 3 functions:
--A function that returns either "heads" or "tails", the result of a coin flip.
--A function that, when called, prompts the user to guess either "heads" or "tails" and returns their guess.
--A function that takes in a string and puts that string into the `result` element on your page.
+* A function that returns either "heads" or "tails", the result of a coin flip.
+* A function that, when called, prompts the user to guess either "heads" or "tails" and returns their guess.
+* A function that takes in a string and puts that string into the `result` element on your page.
 
 Then, write a fourth function that wraps all of these functions into one, so that calling that fourth function will prompt the user to guess heads or tails, flip a coin, and then tell the user whether or not they were right. Make sure that calling just that function from the console works as expected.
 
