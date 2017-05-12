@@ -180,6 +180,7 @@ console.log(result);
 ```
 
 </details>
+
 *Challenge: Can you alter the code to count both upper case AND lower case?*
 
 ### 8. Does the array contain "wdi"?
